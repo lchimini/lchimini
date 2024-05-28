@@ -40,4 +40,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Chimini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-eduardo-chimini-669074249/)](https://www.linkedin.com/in/lucas-eduardo-chimini-669074249/)
 [![Gmail Badge](https://img.shields.io/badge/-lucas@chimini.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas@chimini.com.br)](mailto:lucas@chimini.com.br)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([https://github.com/lchimini](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Flchimini))
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Flchimini)
