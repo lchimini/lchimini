@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias.
-- 🎓 Formado em Licenciatura em computação pela Unifadra.
+- 🎓 Formação: Licenciatura em computação pela Unifadra.
 - 💼 Trabalhando como Administrador de Sistemas na Skymail.
 - 🌱 Aprendendo mais sobre Shell Script e Python.
 
